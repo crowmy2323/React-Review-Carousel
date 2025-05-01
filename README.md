@@ -23,9 +23,4 @@ This project is a simple, animated **review carousel** built with **React**, **F
 - [React Bootstrap](https://react-bootstrap.github.io/)
 - [React Icons](https://react-icons.github.io/react-icons/)
 
-## 🚀 Getting Started
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
